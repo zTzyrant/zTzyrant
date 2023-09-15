@@ -1,7 +1,9 @@
 # 💫 About Me:
 
+
+<p style="height:300px">👋 Hi, I’m @zTzyrant a.k.a. Katachinx<br>👀 My Legal Name is Muhammad Zein Akbar<br>🌱 I’m currently learning at Angular 15<br>📫 Reach me ztzyrant@gmail.com<br><br>
 <img src="images/Astronaut-helmet-pana.svg" height="300" alt="Astronaut" align='right'/>
-<p style="height:300px">👋 Hi, I’m @zTzyrant a.k.a. Katachinx<br>👀 My Legal Name is Muhammad Zein Akbar<br>🌱 I’m currently learning at Angular 15<br>📫 Reach me ztzyrant@gmail.com<br><br></td></p>
+</p>
 
 ## 🌐 Socials:
 
