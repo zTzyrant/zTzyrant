@@ -1,10 +1,12 @@
 # 💫 About Me:
 
-<div style="float: left;">
+<div>
+  <div style="float: left;">
   👋 Hi, I’m @zTzyrant a.k.a. Katachinx<br>👀 My Legal Name is Muhammad Zein Akbar<br>🌱 I’m currently learning at Angular 15<br>📫 Reach me ztzyrant@gmail.com<br><br>
 </div>
 <div style="float: left;">
 <img src="images/Astronaut-helmet-pana.svg" height="300" alt="Astronaut"/>
+</div>
 </div>
 
 ## 🌐 Socials:
