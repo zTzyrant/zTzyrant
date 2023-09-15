@@ -23,12 +23,11 @@
 </div>
 
 ### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ---
-
 </div>
+
 [![](https://visitcount.itsvg.in/api?id=zTzyrant&icon=5&color=12)](https://visitcount.itsvg.in)
 
