@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="images/Astronaut-helmet-pana.svg" height="300" alt="Astronaut" align='center'/>
+<div align="center"><img src="images/Astronaut-helmet-pana.svg" height="300" alt="Astronaut" /></div>
 
 👋 Hi, I’m @zTzyrant a.k.a. Katachinx<br>👀 My Legal Name is Muhammad Zein Akbar<br>🌱 I’m currently learning at Angular 15<br>📫 Reach me ztzyrant@gmail.com
 
