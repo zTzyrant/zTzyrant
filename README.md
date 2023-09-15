@@ -1,11 +1,11 @@
 # 💫 About Me:
 
 
-<table border="0" style="width: 100%">
- <tr>
+<table border="0" style="width: 100%;">
+ <tr style="width: 100%;">
     <td align="center" colspan="2"><b style="font-size:30px">About Me</b></td>
  </tr>
- <tr>
+ <tr style="width: 100%;">
     <td>👋 Hi, I’m @zTzyrant a.k.a. Katachinx<br>👀 My Legal Name is Muhammad Zein Akbar<br>🌱 I’m currently learning at Angular 15<br>📫 Reach me ztzyrant@gmail.com<br><br></td>
     <td><img src="images/Astronaut-helmet-pana.svg" height="300" alt="Astronaut"/></td>
  </tr>
