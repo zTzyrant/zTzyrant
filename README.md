@@ -19,3 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=zTzyrant&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![My user statistics](images/userstats.svg)
