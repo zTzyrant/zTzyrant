@@ -1,14 +1,15 @@
 # 💫 About Me:
 
-<div>
-  <div style="float: left;">
-  👋 Hi, I’m @zTzyrant a.k.a. Katachinx<br>👀 My Legal Name is Muhammad Zein Akbar<br>🌱 I’m currently learning at Angular 15<br>📫 Reach me ztzyrant@gmail.com<br><br>
-</div>
-<div style="float: left;">
-<img src="images/Astronaut-helmet-pana.svg" height="300" alt="Astronaut"/>
-</div>
-</div>
 
+<table border="0">
+ <tr>
+    <td align="center"><b style="font-size:30px">About Me</b></td>
+ </tr>
+ <tr>
+    <td>👋 Hi, I’m @zTzyrant a.k.a. Katachinx<br>👀 My Legal Name is Muhammad Zein Akbar<br>🌱 I’m currently learning at Angular 15<br>📫 Reach me ztzyrant@gmail.com<br><br></td>
+    <td><img src="images/Astronaut-helmet-pana.svg" height="300" alt="Astronaut"/></td>
+ </tr>
+</table>
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/me.zein_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ztzyrant) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13197639)
