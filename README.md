@@ -1,4 +1,6 @@
-# 💫 About Me:
+<div align="center">
+<h2>💫 About Me 💫</h2>
+</div>
 
 <div align="center"><img src="images/Astronaut-helmet-pana.svg" height="300" alt="Astronaut" /></div>
 
