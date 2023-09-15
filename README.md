@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-<table border="0" width="500px">
+<table border="0">
  <tr>
-    <td align="center" colspan="2"><b style="font-size:30px">About Me</b></td>
+    <td align="center" colspan="2"><b style="font-size:30px" width="1000px">About Me</b></td>
  </tr>
  <tr>
     <td>👋 Hi, I’m @zTzyrant a.k.a. Katachinx<br>👀 My Legal Name is Muhammad Zein Akbar<br>🌱 I’m currently learning at Angular 15<br>📫 Reach me ztzyrant@gmail.com<br><br></td>
