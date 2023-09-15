@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-<table border="0">
+<table border="0" style="width: 100%">
  <tr>
     <td align="center" colspan="2"><b style="font-size:30px">About Me</b></td>
  </tr>
