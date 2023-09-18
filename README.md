@@ -25,8 +25,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
-<img src="https://wakatime.com/share/@f73be45c-1528-4167-b416-5d4da5237aed/379f3701-8c6e-458f-815d-73d2fee5a563.svg" height="500" alt="WAKATIME" />
+<img src="https://wakatime.com/share/@f73be45c-1528-4167-b416-5d4da5237aed/88041e9c-5506-4a0b-a460-435ba55d5241.svg" height="500px" alt="WAKATIME" />
 
 ---
 
