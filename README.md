@@ -26,7 +26,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-<img src="https://wakatime.com/share/@f73be45c-1528-4167-b416-5d4da5237aed/89b2b2d8-cc1a-41b5-bcc0-490e39a3cbc2.svg" alt="WAKATIME" />
+<img src="https://wakatime.com/share/@f73be45c-1528-4167-b416-5d4da5237aed/89b2b2d8-cc1a-41b5-bcc0-490e39a3cbc2.svg" width="300" height="300" alt="WAKATIME" />
 
 ---
 
