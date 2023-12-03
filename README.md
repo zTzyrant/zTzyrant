@@ -24,9 +24,7 @@
 
 # 😨 Wakapi 😨 #
 
-<div align="center">
-<img src="https://wakapi.dev/api/activity/chart/takimotooo.svg" alt="My Wakapi timeline"/>
-</div>
+![](https://wakapi.dev/api/activity/chart/takimotooo.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
