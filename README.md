@@ -22,10 +22,6 @@
 <img src="images/userstats.svg" alt="My user statistics"/>
 </div>
 
-# 😨 Wakapi 😨 #
-
-![](https://wakapi.dev/api/activity/chart/takimotooo.svg)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
