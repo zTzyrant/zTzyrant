@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="images/Astronaut-helmet-pana.svg" height="300" alt="Astronaut"/>
-  <p>👋 Hi, I’m @zTzyrant a.k.a. Katachinx<br>👀 My Legal Name is Muhammad Zein Akbar<br>🌱 I’m currently learning at Angular 15<br>📫 Reach me ztzyrant@gmail.com</p>
+  <p>👋 Hi, I’m @zTzyrant a.k.a. Katachinx<br>👀 My Legal Name is Muhammad Zein Akbar<br>🌱 I’m currently learning at Astro 4<br>📫 Reach me ztzyrant@gmail.com</p>
 </div>
 
 <h1>🌐 Socials 🌐</h2>
